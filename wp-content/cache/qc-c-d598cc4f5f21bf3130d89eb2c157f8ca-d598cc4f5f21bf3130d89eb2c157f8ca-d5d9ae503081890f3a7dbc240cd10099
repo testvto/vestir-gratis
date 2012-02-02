@@ -1,0 +1,40 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sun, 08 Jan 2012 02:33:42 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:66:"Link: <http://www.juegosdevestirgratis.com.mx/?p=9>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Juego de Vestir Princesa</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/juego-de-vestir-princesa/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-princesa</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: gloria</title>
+		<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-princesa#comment-535</link>
+		<dc:creator>gloria</dc:creator>
+		<pubDate>Sun, 15 May 2011 00:58:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/?p=9#comment-535</guid>
+		<description>nada k ver estodo muy aburrido no se los recomiendo para nada</description>
+		<content:encoded><![CDATA[<p>nada k ver estodo muy aburrido no se los recomiendo para nada</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: carmen_liinda"</title>
+		<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-princesa#comment-285</link>
+		<dc:creator>carmen_liinda"</dc:creator>
+		<pubDate>Fri, 08 Apr 2011 19:47:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/?p=9#comment-285</guid>
+		<description>ezta bnn abuurido se los   recomiendo muy poco</description>
+		<content:encoded><![CDATA[<p>ezta bnn abuurido se los   recomiendo muy poco</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/juego-de-vestir-princesa/feed ) in 0.03832 seconds, on Jan 15th, 2012 at 2:33 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 15th, 2012 at 3:33 am UTC -->

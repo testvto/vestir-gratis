@@ -1,0 +1,4 @@
+[15-Nov-2011 05:00:36] PHP Fatal error:  Call to undefined function current_user_can() in /home/carros/public_html/wp-content/plugins/wp-postratings/postratings-options.php on line 21
+[15-Nov-2011 05:02:02] PHP Fatal error:  Call to undefined function current_user_can() in /home/carros/public_html/wp-content/plugins/wp-postratings/postratings-manager.php on line 21
+[15-Nov-2011 05:03:27] PHP Fatal error:  Call to undefined function current_user_can() in /home/carros/public_html/wp-content/plugins/wp-postratings/postratings-templates.php on line 21
+[15-Nov-2011 05:04:52] PHP Fatal error:  Call to undefined function current_user_can() in /home/carros/public_html/wp-content/plugins/wp-postratings/postratings-uninstall.php on line 21

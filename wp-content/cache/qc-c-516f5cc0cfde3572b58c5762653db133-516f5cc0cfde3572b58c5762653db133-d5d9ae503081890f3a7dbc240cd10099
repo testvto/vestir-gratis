@@ -1,0 +1,42 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sat, 07 Jan 2012 07:16:52 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=201>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Vestir a Garfield</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/vestir-a-garfield/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/vestir-a-garfield</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: lulu</title>
+		<link>http://www.juegosdevestirgratis.com.mx/vestir-a-garfield#comment-836</link>
+		<dc:creator>lulu</dc:creator>
+		<pubDate>Tue, 21 Jun 2011 21:36:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/vestir-a-garfield#comment-836</guid>
+		<description>ola</description>
+		<content:encoded><![CDATA[<p>ola</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: peña</title>
+		<link>http://www.juegosdevestirgratis.com.mx/vestir-a-garfield#comment-760</link>
+		<dc:creator>peña</dc:creator>
+		<pubDate>Sat, 18 Jun 2011 02:10:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/vestir-a-garfield#comment-760</guid>
+		<description>hola ay algien nose kien esta dime dime ami te qero lalall 
+nose papi asi aja te qero chau</description>
+		<content:encoded><![CDATA[<p>hola ay algien nose kien esta dime dime ami te qero lalall<br />
+nose papi asi aja te qero chau</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/vestir-a-garfield/feed ) in 0.04441 seconds, on Jan 14th, 2012 at 7:16 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 14th, 2012 at 8:16 am UTC -->

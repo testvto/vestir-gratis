@@ -1,0 +1,70 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sun, 08 Jan 2012 20:39:41 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=234>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Nuevo estilo</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/nuevo-estilo/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/nuevo-estilo</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: k nda t0ntas</title>
+		<link>http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-1014</link>
+		<dc:creator>k nda t0ntas</dc:creator>
+		<pubDate>Fri, 08 Jul 2011 05:28:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-1014</guid>
+		<description>k 0nda says t0nta</description>
+		<content:encoded><![CDATA[<p>k 0nda says t0nta</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ari</title>
+		<link>http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-1005</link>
+		<dc:creator>ari</dc:creator>
+		<pubDate>Wed, 06 Jul 2011 02:02:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-1005</guid>
+		<description>es un toyo por k nose csrga</description>
+		<content:encoded><![CDATA[<p>es un toyo por k nose csrga</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: melanie</title>
+		<link>http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-994</link>
+		<dc:creator>melanie</dc:creator>
+		<pubDate>Mon, 04 Jul 2011 17:11:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-994</guid>
+		<description>esta a burido muy aburido nose como te gusta mayra y richi</description>
+		<content:encoded><![CDATA[<p>esta a burido muy aburido nose como te gusta mayra y richi</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: mayra</title>
+		<link>http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-985</link>
+		<dc:creator>mayra</dc:creator>
+		<pubDate>Sun, 03 Jul 2011 01:16:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-985</guid>
+		<description>me parese muy divertido</description>
+		<content:encoded><![CDATA[<p>me parese muy divertido</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: rochii escalante</title>
+		<link>http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-978</link>
+		<dc:creator>rochii escalante</dc:creator>
+		<pubDate>Fri, 01 Jul 2011 18:16:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/nuevo-estilo#comment-978</guid>
+		<description>esta genial este juego ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥</description>
+		<content:encoded><![CDATA[<p>esta genial este juego ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/nuevo-estilo/feed ) in 0.04809 seconds, on Jan 15th, 2012 at 8:39 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 15th, 2012 at 9:39 pm UTC -->

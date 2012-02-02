@@ -1,0 +1,70 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Fri, 06 Jan 2012 18:24:51 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:67:"Link: <http://www.juegosdevestirgratis.com.mx/?p=34>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Ninja</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/ninja/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/ninja</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: nati</title>
+		<link>http://www.juegosdevestirgratis.com.mx/ninja#comment-893</link>
+		<dc:creator>nati</dc:creator>
+		<pubDate>Sat, 25 Jun 2011 14:42:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/ninja#comment-893</guid>
+		<description>esto esta re buieno ay chaicas que son idiotas porque disenque esta re feo .... la que disen eso no tiene pasienseia</description>
+		<content:encoded><![CDATA[<p>esto esta re buieno ay chaicas que son idiotas porque disenque esta re feo &#8230;. la que disen eso no tiene pasienseia</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: jimena</title>
+		<link>http://www.juegosdevestirgratis.com.mx/ninja#comment-841</link>
+		<dc:creator>jimena</dc:creator>
+		<pubDate>Wed, 22 Jun 2011 00:14:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/ninja#comment-841</guid>
+		<description>BIEN:p</description>
+		<content:encoded><![CDATA[<p>BIEN:p</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: daniela</title>
+		<link>http://www.juegosdevestirgratis.com.mx/ninja#comment-752</link>
+		<dc:creator>daniela</dc:creator>
+		<pubDate>Sat, 18 Jun 2011 01:27:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/ninja#comment-752</guid>
+		<description>Ta Mas Piola Este Juego Chae! :) Ja!</description>
+		<content:encoded><![CDATA[<p>Ta Mas Piola Este Juego Chae! <img src='http://www.juegosdevestirgratis.com.mx/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />  Ja!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: paola</title>
+		<link>http://www.juegosdevestirgratis.com.mx/ninja#comment-396</link>
+		<dc:creator>paola</dc:creator>
+		<pubDate>Sat, 30 Apr 2011 05:03:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/ninja#comment-396</guid>
+		<description>nom k</description>
+		<content:encoded><![CDATA[<p>nom k</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: vanessa viriana verdugo</title>
+		<link>http://www.juegosdevestirgratis.com.mx/ninja#comment-128</link>
+		<dc:creator>vanessa viriana verdugo</dc:creator>
+		<pubDate>Wed, 02 Mar 2011 04:01:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/ninja#comment-128</guid>
+		<description>soy idiota</description>
+		<content:encoded><![CDATA[<p>soy idiota</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/ninja/feed ) in 0.03787 seconds, on Jan 13th, 2012 at 6:24 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 13th, 2012 at 7:24 pm UTC -->

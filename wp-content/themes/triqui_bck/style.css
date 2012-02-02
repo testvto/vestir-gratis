@@ -1,0 +1,1253 @@
+/* 
+
+	Theme Name: Triqui MochiAds Arcade
+
+	Theme URL: http://www.emanueleferonato.com/triqui-mochiads-arcade-theme-for-wordpress-official-page/
+
+	Description: Turns your WordPress blog into a <strong><a href = "https://www.mochiads.com/r/972ae333a3c92a2a">MochiAds</a></strong> arcade theme. For requirements, instructions, bug reporting and updates visit the <a target = "_blank" href = "http://www.emanueleferonato.com/triqui-mochiads-arcade-theme-for-wordpress-official-page/" target = "_blank">official page</a>.
+
+	Author: Emanuele Feronato
+
+	Author URI: http://www.emanueleferonato.com/
+
+	Version: 1.0
+
+
+
+*/
+
+
+
+/* SPECIAL ATTRIBUTES */
+
+#main_ads{
+	padding-left:5px;
+	height:300px;
+
+}	
+
+#destacados{
+	float:left;
+margin;0;
+	padding-left:5px;
+    padding-bottom:5px;
+	
+}
+#adsense{ 
+
+float:left;
+padding-right:30px;
+
+}
+
+
+/* the body... */
+
+body {
+
+	[TABLE=1]
+
+	
+
+	background-color:#090909;
+
+	background-image:url('images/back.png');
+
+	margin: 0px;
+
+	padding:0;
+
+}
+
+	
+
+/* wrapper - used to manage multiple columns */
+
+#wrap {
+
+	background: #FFFFFF;
+
+	width:990px;
+
+	margin:0px auto;
+
+	padding: 1px;
+
+}
+
+
+
+/* images */
+
+img { 
+
+     border: 0px;
+
+}
+
+
+
+/* special css to clear floating columns - don't touch it */
+
+.clear {
+
+	clear:both;
+
+	padding:0;
+
+	margin:0;
+
+}
+
+	
+
+/* THE HEADER */
+
+
+
+/* header*/
+
+#header {
+
+	width: 990px;
+
+	height: 118px;
+
+	font:normal 12px verdana;
+
+	margin: 0px auto;
+
+	overflow: hidden;
+
+	background: #0089D6;
+
+}
+
+
+
+/* header paragraph */	
+
+#header p {
+
+	padding: 5px 0px 5px 0px;
+
+	margin: 0px;
+
+	line-height: 20px;
+
+	
+
+}
+
+/* left header sidebar ("triqui" image) */	
+
+
+
+.headerleft {
+
+
+
+	width: 260px;
+
+
+
+	float: right;
+
+
+
+	margin: 0px;
+
+
+
+	padding: 0px;
+
+
+
+	overflow: hidden;
+
+
+
+	height:106px;
+
+
+
+	background-image:url('images/triqui.png');
+
+
+
+	cursor:pointer;
+
+
+
+}
+
+
+
+
+
+
+
+/* header right sidebar (blog title and ads) */	
+
+
+
+.headerright {
+
+
+
+	width: 730px;
+
+
+
+	float: left;
+
+
+
+	margin: 0px;
+
+
+
+	padding: 0px 0px 0px 0px;
+
+
+
+	text-align: left;
+
+
+
+	font:normal 10px verdana;
+
+
+
+}
+
+
+
+/* links in the right header sidebar */
+
+.headerright a {
+
+	color: #FFFFFF;
+
+	text-decoration: none;
+
+	padding: 0px 0px 0px 1px;
+
+}
+
+
+
+/* rollover effect for links in the right header sidebar */
+
+.headerright a:hover {
+
+	color:#0000E3;
+
+	text-decoration: underline;
+
+}
+
+	
+
+/* NAVBAR - THE CATEGORIES MENU */
+
+
+
+/* navbar itself */
+
+#navbar { 
+
+	background-color: #0089D6;
+
+	border:1px solid #white;
+
+	width: 990px;
+
+	padding: 0px;
+
+	margin:0px auto;
+
+	height:25px;
+
+}
+
+
+
+/* navbar list container */	
+
+#nav {
+
+	margin: 0px;
+
+	padding: 3px 0px 0px 0px;
+
+	list-style: none;
+
+}
+
+
+
+/* navbar list */	
+
+#nav ul {
+
+	margin: 0px;
+
+	padding: 0px;
+
+}
+
+	
+
+/* navbar link */
+
+#nav a {
+
+	font:bold 10px arial;
+
+	color: white;
+
+	display: block;
+
+     text-transform: uppercase;
+
+     margin: 0px 0px 0px 0px;
+
+	padding: 5px;
+
+	text-decoration: none;
+
+}
+
+
+
+/* navbar link rollover effect */	
+
+#nav a:hover {
+
+	border-bottom:0px solid #0000E3;
+
+	color:#0000E3;
+
+}
+
+
+
+/* navbar list element */
+
+#nav li {
+
+	float: left;
+
+	margin: 0px;
+
+	padding: 0px;
+
+}
+
+	
+
+/* GAME BOX */
+
+
+
+/* game container */
+
+.game{
+
+	padding:0px;
+
+	width:150px;
+
+	height:150px;
+
+	float:left;
+
+	margin:0 21px 15px 0;
+
+	background:white;
+
+	border:2px solid white;
+
+	overflow:hidden;
+
+	text-align:center;
+
+}
+
+
+
+/* game title */
+
+.game h4 {
+
+	font:bold 10px arial;
+
+	text-align:center;
+
+	margin:0px;
+
+	padding:0px;
+
+	text-transform:uppercase;
+
+}
+
+
+
+/* game title link */
+
+.game h4 a {
+
+	color:#11111;
+
+	text-decoration:none;
+
+}
+
+
+
+/* game sliding content */
+
+.game p {
+
+     margin:0px;
+
+     padding:0px;
+
+}
+
+
+
+/* GAME BOX ON ROLLOVER */
+
+
+
+/* game container */
+
+.game2 {
+
+	width:150px;
+
+	height:150px;
+
+	padding:0px;
+
+	float:left;
+
+	margin:0 21px 15px 0;
+
+	background:white;
+
+	border:2px solid white;
+
+	overflow:hidden;
+
+	text-align:center;
+
+}
+
+
+
+/* game title */
+
+.game2 h4 {
+
+	font:bold 10px arial;
+
+	text-align:center;
+
+	margin:5px 0px;
+
+	padding:0px;
+
+	text-transform:uppercase;
+
+}
+
+
+
+/* game title link */
+
+.game2 h4 a {
+
+	color:#111111;
+
+	text-decoration:none;
+
+}
+
+
+
+/* game sliding content */
+
+.game2 p {
+
+     margin:-28px 0px 0px 0px;
+
+}
+
+
+
+/* BLOG CONTENT */
+
+
+
+/* error 404 page*/
+
+.error404{
+
+     font:bold 11px verdana;
+
+     color:#ffffff;
+
+     padding:40px;
+
+}
+
+
+
+/* the content itself */
+
+#content {
+
+	width: 990px;
+	margin: 0px auto;
+	padding: 0px;
+
+}
+
+
+
+/* content in the game page */
+
+#gamecontent{
+
+     width:990px;
+     margin-top: -15px;
+     margin-bottom: -10px;
+     margin-left: 0px;
+     margin-right: 0px;
+     padding:0px;
+
+}
+
+
+
+/* game title in the game page */
+
+#gamecontent h1{
+
+     font:bold 24px verdana;
+
+     color:#FFFFFF;
+
+     padding:0px;
+
+     margin:10px 0px 0px 0px;
+
+     text-transform:uppercase;
+
+     
+
+}
+
+
+
+/* left part of the game page... contains name, ratings and so on */
+
+.gameleft{
+
+     width:500px;
+
+     float:left;
+
+}
+
+
+
+/* right part of the container... does not contain anithing at the moment */
+
+.gameright{
+
+     font:normal 11px verdana;
+
+     width:480px;
+
+     float:left;
+
+     padding:15px 10px 0px 0px;
+
+     color:#ffffff;
+
+     text-align:right;
+
+}
+
+
+
+/* left part of main page... contains game thumbnails */
+
+#contentleft {
+
+	float: left;
+
+	width: 705px;
+
+	margin-left: 5px;
+
+	padding: 5px 0px 0px 0px;
+
+}
+
+
+
+/* div containing date (not included in my theme), ratings and games played counter */
+
+.date {
+
+     font:normal 11px verdana;
+
+     color:#aaaaaa;
+
+	padding: 0px;
+
+	margin: 5px 0px 0px 0px;
+
+}
+
+
+
+/* link in the previously explained div */
+
+.date a{
+
+     color:#0000E3;
+
+}
+
+
+
+/* flash container */	
+
+.flash{
+
+     text-align:center;
+
+}
+
+
+
+/* container for the adsense ad below the game */
+
+.adsensead{
+
+     text-align:center;
+
+}
+
+
+
+/* description of the game */
+
+.description{
+
+     padding:5px;
+
+     color:#111111;
+
+     background-color:#0089D6;
+
+     border:1px solid #0089D6;
+
+     font:normal 11px verdana;
+
+     margin:15px 0px 5px 0px;
+
+}
+
+
+
+/* description list style */
+
+.description ul{
+
+     margin: 10px 0px 10px 25px;
+
+	padding: 0px;
+
+	list-style: none;
+
+}
+
+
+
+/* description list element style */
+
+.description ul li{
+
+     color:#0000E3
+
+}
+
+
+
+/* description of 2nd child list element style */
+
+.description ul li ul li{
+
+     color:#ffffff;
+
+     line-height:18px;
+
+}
+
+
+
+/* description of link in the 2nd child list element style */
+
+.description ul li ul li a{
+
+     color:#0000E3
+
+}
+
+
+
+/* page (example:about) container */
+
+.page{
+
+     width:630px;
+
+     background-color:#111111;
+
+     border:1px solid #292929;
+
+     padding:10px;
+
+     font:normal 11px verdana;
+
+     color:#ffffff;
+
+     line-height:18px;
+
+}
+
+
+
+/* page link */
+
+.page a{
+
+     color:#0000E3;
+
+}
+
+
+
+/* page title */
+
+.page h1{
+
+     font:bold 18px verdana;
+
+}
+
+#gamecontent h2{
+	font:bold 10px arial;
+	color: black;
+	display: block;
+        margin: 0px 0px 0px 0px;
+	padding: 0px;
+	text-decoration: none;
+	line-height: 0px;
+}
+.page h2{
+	font:bold 10px arial;
+	color: black;
+	display: block;
+        margin: 0px 0px 0px 0px;
+	padding: 0px;
+	text-decoration: none;
+	line-height: 0px;
+}
+h2{
+	font:bold 10px arial;
+	color: black;
+	display: block;
+        margin: 0px 0px 0px 0px;
+	padding: 0px;
+	text-decoration: none;
+	line-height: 0px;
+}
+.page h3{
+        margin: 0px 0px 0px 0px;
+	padding: 0px;
+	line-height: 0px;
+	text-decoration: none;
+	font:bold 10px arial;
+}
+h3{
+        margin: 0px 0px 0px 0px;
+	padding: 0px;
+	line-height: 0px;
+	text-decoration: none;
+	font:bold 10px arial;
+}
+.page h5{
+     font:bold 14px verdana;
+}
+h5{
+     font:bold 14px verdana;
+}
+/* RIGHT SIDEBAR */
+
+
+
+/* sidebar container */	
+
+#r_sidebar {
+
+	float: right;
+
+	width: 280px;
+
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+
+	padding: 0px 0px 0px 0px;
+
+	line-height: 0px;
+
+}
+
+
+
+/* sidebar titles */
+
+#r_sidebar h2 {
+
+	color: #288AB7;
+
+	font:bold 12px arial;
+
+	text-transform: uppercase;
+
+	margin: 5px 0px 5px 0px;
+
+	padding: 3px 0px 3px 5px;
+
+}
+
+
+
+/* sidebar list */
+
+#r_sidebar ul {
+
+	list-style-type: none;
+
+	margin: 0px 0px 0px 0px;
+
+	padding: 0px 0px 0px 0px;
+
+}
+
+
+
+/* sidebar list element */
+
+#r_sidebar ul li{
+
+     border:1px solid #FFFFFF;
+
+     margin:0px 0px 5px 0px;
+
+     padding: 0px 5px 0px 5px;
+
+     background-color:#FFFFFF;
+
+     font:normal 11px arial;
+
+}
+
+
+
+/* sidebar 2nd child list element */
+
+#r_sidebar ul li ul li{
+
+     border:none;
+
+     margin:0px 0px 5px 0px;
+
+     padding: 0px 5px 0px 5px;
+
+     font:normal 11px arial;
+
+     color:#777777;
+
+}
+
+
+
+/* sidebar link */
+
+#r_sidebar a{
+
+     color:#111111;
+
+     text-decoration:none;
+
+}
+
+
+
+/* sidebar link rollover effect */
+
+#r_sidebar a:hover {
+
+	color: #288AB7;
+
+	text-decoration:underline
+
+}
+
+	
+
+/* FOOTER */
+
+
+
+/* footer container */
+
+#footer {
+
+	background-color:#0089D6;
+color:#FFFFFF;
+
+     /* border-top:1px solid #292929; */
+
+	width: 990px;
+
+	margin-height: 0px;
+
+	margin-left: auto;
+
+	margin-bottom: 0px;
+
+	margin-right: auto;
+
+	font-size: 15px;
+
+	text-align: center;
+
+}
+
+
+
+/* footer link */	
+
+#footer a{
+
+     text-decoration:none;
+
+     color:#8BEB3F;
+
+}
+
+
+
+
+
+/* footer linl rollover */
+
+#footer a{
+
+     text-decoration:none;
+
+     color:#8BEB3F;
+
+
+
+/* footer linl rollover */
+
+#footer a:hover{
+
+     color:#8BEB3F;
+
+}
+
+
+
+/* container for the list of all games */
+
+.posts_wrapper{
+
+     background: #FFFFFF;
+
+     width:990px;
+
+     margin:0px auto;
+
+     padding:0px;
+
+     margin-left: auto;
+
+     margin-right: auto;
+
+}
+
+
+
+/* container for the column with game list */
+
+.footer_posts{
+
+     width:185px;
+
+     float:left;
+
+     margin: 15px 0px 0px 0px;
+
+     padding:0px 0px 0px 0px;
+
+     border-left:1px solid #666666;
+
+}
+
+
+
+/* game list style type */
+
+.footer_posts ul{
+
+     list-style: none;
+
+     padding:0px;
+
+     margin:0px;    
+
+}
+
+
+
+/* game list element style type */
+
+.footer_posts ul li{
+
+     font:bold 10px arial;
+
+     padding:1px 0px;
+
+}
+
+
+
+/* footer copyright */
+
+#copy{
+
+     text-transform:uppercase;
+
+     font:bold 10px arial;
+
+     color:#777777;
+
+     text-align:center;
+
+     padding:20px 0px 10px 0px;
+
+     opacity: 0.5;
+
+}
+
+
+
+/* footer copyright link */
+
+#copy a{
+
+     color:#0000EE;
+
+}
+
+
+
+/* COMMENTS */
+
+
+
+/* comments left sidebar (where you enter the comment */	
+
+#commentleft {
+
+     font:normal 10px verdana;
+
+     color:#ffffff;
+
+	padding: 0px;
+
+	margin: 0px 40px 0px 0px;
+
+	line-height:20px;
+
+	float:left;
+
+	width:450px;
+
+}
+
+
+
+/* comments left sidebar link */
+
+#commentleft a{
+
+     text-decoration:none;
+
+     color:#0000E3;
+
+}
+
+
+
+/* comments left sidebar small text (showing tags) */
+
+#commentleft small{
+
+     color:#777777;
+
+     font:normal 10px verdana;
+
+}
+
+
+
+/* input texts and textareas */
+
+.texts{
+
+     background-color:#333333;
+
+     border:1px solid #444444;
+
+     width:90%;
+
+     padding:2px
+
+     font:normal 12px verdana;
+
+     color:#f5f5f5; 
+
+}
+
+
+
+/* review title */
+
+#review{
+
+     font:normal 12px verdana;
+
+     color:#0000E3;
+
+     padding:10px;
+
+     border:1px solid #292929;
+
+     background-color:#111111;
+
+}
+
+
+
+/* comments right sidebar (where read reviews) */
+
+#commentright{
+
+     font:normal 11px verdana;
+
+     color:#aaaaaa;
+
+     float:left;
+
+     width:500px;
+
+}
+
+
+
+/* comments right sidebar link */
+
+#commentright a{
+
+     text-decoration:none;
+
+     color:#0000E3;
+
+}
+
+
+
+/* the review itself */
+
+.commentballoon {
+
+	clear: both;
+
+	margin: 3px 0px 0px 0px;
+
+	padding: 0px;
+
+	height:10px;
+
+	background: url(images/comment.png) no-repeat top left;
+
+	
+
+}
+
+
+
+/* text inside the review */
+
+.commenttext {
+
+	clear: both;
+
+	margin: 0px 0px 10px 0px;
+
+	padding: 10px 10px 5px 10px;
+
+	width: 420px;
+
+	background: #333333;
+
+	line-height:18px;
+
+	
+
+}
+
+
+
+/* submit button */
+
+.sub_button{
+
+     background-color:#333333;
+
+     border:1px solid #444444;
+
+     padding:2px
+
+     font:normal 12px verdana;
+
+     color:#f5f5f5;    
+
+} 	 
+

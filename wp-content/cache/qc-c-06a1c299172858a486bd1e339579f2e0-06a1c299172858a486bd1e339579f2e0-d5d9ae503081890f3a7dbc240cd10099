@@ -1,0 +1,60 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Mon, 09 Jan 2012 04:43:28 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:67:"Link: <http://www.juegosdevestirgratis.com.mx/?p=12>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Juego de Vestir Cinderella</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: marley judith</title>
+		<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella#comment-824</link>
+		<dc:creator>marley judith</dc:creator>
+		<pubDate>Tue, 21 Jun 2011 00:15:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/?p=12#comment-824</guid>
+		<description>carga muy despacio</description>
+		<content:encoded><![CDATA[<p>carga muy despacio</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: freyna</title>
+		<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella#comment-748</link>
+		<dc:creator>freyna</dc:creator>
+		<pubDate>Sat, 18 Jun 2011 00:15:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/?p=12#comment-748</guid>
+		<description>fea tas vos este juego es demasiado calidad... perra</description>
+		<content:encoded><![CDATA[<p>fea tas vos este juego es demasiado calidad&#8230; perra</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: rocio</title>
+		<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella#comment-469</link>
+		<dc:creator>rocio</dc:creator>
+		<pubDate>Tue, 03 May 2011 00:21:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/?p=12#comment-469</guid>
+		<description>mentiraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</description>
+		<content:encoded><![CDATA[<p>mentiraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: DARIANA</title>
+		<link>http://www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella#comment-274</link>
+		<dc:creator>DARIANA</dc:creator>
+		<pubDate>Tue, 05 Apr 2011 23:32:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/?p=12#comment-274</guid>
+		<description>ASH QUE FEO JUEGO NETA</description>
+		<content:encoded><![CDATA[<p>ASH QUE FEO JUEGO NETA</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/juego-de-vestir-cinderella/feed ) in 0.04489 seconds, on Jan 16th, 2012 at 4:43 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 16th, 2012 at 5:43 am UTC -->

@@ -1,0 +1,349 @@
+/* 
+
+	Theme Name: Triqui MochiAds Arcade
+
+	Theme URL: http://www.emanueleferonato.com/triqui-mochiads-arcade-theme-for-wordpress-official-page/
+
+	Description: Turns your WordPress blog into a <strong><a href = "https://www.mochiads.com/r/972ae333a3c92a2a">MochiAds</a></strong> arcade theme. For requirements, instructions, bug reporting and updates visit the <a target = "_blank" href = "http://www.emanueleferonato.com/triqui-mochiads-arcade-theme-for-wordpress-official-page/" target = "_blank">official page</a>.
+
+	Author: Emanuele Feronato
+
+	Author URI: http://www.emanueleferonato.com/
+
+	Version: 1.0
+
+
+
+*/
+body{font:normal 12px/18px Arial, Helvetica, sans-serif;}
+
+#head { height:212px; width:990px; position:relative; font-family:Arial, Helvetica, sans-serif; background:#9acb3b; }
+.cb { clear:both; }
+.toplink { background:#B3181E; height:30px; font-family:Arial, Helvetica, sans-serif; }
+.toplink ul { padding:0; margin:0 auto; width:990px; }
+.toplink ul li { list-style:none; float:left; }
+.toplink ul li a { color:#efce33; font-size:14px; font-weight:bold; padding:0 18px; line-height:30px; text-decoration:none; border-right:1px solid #efce33; }
+.toplink ul li a.last { border:none; }
+#logo { position:absolute; top:0px; left:0; }
+#social_content { float:left; height:55px; padding-left:235px; padding-top:35px; width:345px; }
+#search { width:400px; height:36px; float:left; padding-top:31px; }
+#search .txtfld { width:290px; height:20px; background-color:#ffffff; border:none; flaot:left; }
+#search .btn { width:72px; height:24px; color:#6a0b0f; font-size:14px; font-weight:bold; margin-left:10px; background:url(images/btn.png) no-repeat top left; border:none; line-height:24px; }
+#cat_nav { background: none repeat scroll 0 0 #EFCE33; border-bottom: 1px solid #9acb3b; float: left; height: 30px; width: 990px; }
+#cat_nav ul li { list-style:none; float:left; }
+#cat_nav ul { padding:0; margin:0; }
+#cat_nav ul li a { color:#a00b11; padding:0 18px; text-decoration:none; line-height:30px; font-size:12px; font-weight:bold; border-right:1px solid #a00b11; }
+#cat_nav ul li a.last { border:none; }
+#head_bot { height:92px; background:#efce33; clear:both; }
+.ad { float:left; padding:1px 0; }
+.most_played { width:260px; float:left; padding-top:16px; }
+.box { background:#bebdbd;  padding:10px; font-family:arial; font-size:12px; border-radius:5px; margin:10px 10px 0 0; line-height:20px; }
+#thumb1 { height:100px; float: center; margin:25px 25pb 25px 25px; padding: 15px 15px 15px 15px; }
+/* SPECIAL ATTRIBUTES */
+
+#main_ads { padding-left:5px; height:300px; }
+#destacados { float:left; margin;
+0;
+padding-left:5px; padding-bottom:5px; }
+#adsense { float:left; padding-right:30px; }
+/* the body... */
+
+body { background-color: #999999; margin: 0px; padding:0; }
+/* wrapper - used to manage multiple columns */
+
+#wrap { background: #fff; width:990px; margin:0px auto; padding: 0px; }
+/* images */
+
+img { border: 0px; }
+/* special css to clear floating columns - don't touch it */
+
+.clear { clear:both; padding:0; margin:0; }
+/* THE HEADER */
+
+
+
+/* header*/
+
+#header { width: 990px; font:normal 12px verdana; border:1px solid #000; margin: 0px auto; overflow: hidden; background: #9acb3b; }
+/* header paragraph */	
+
+#header p { padding: 5px 0px 5px 0px; margin: 0px; line-height: 20px; }
+/* left header sidebar ("triqui" image) */	
+
+
+
+.headerleft { width: 260px; float: right; margin: 0px; padding: 0px; overflow: hidden; height:106px; background-image:url('http://www.juegosdecarros.pro/logo.png'); cursor:pointer; }
+/* header right sidebar (blog title and ads) */	
+
+
+
+.headerright { width: 730px; float: left; margin: 0px; padding: 0px 0px 0px 0px; text-align: left; font:normal 10px verdana; }
+/* links in the right header sidebar */
+
+.headerright a { color: #FFFFFF; text-decoration: none; padding: 0px 0px 0px 1px; }
+/* rollover effect for links in the right header sidebar */
+
+.headerright a:hover { color:#EFCE33; text-decoration: underline; }
+/* NAVBAR - THE CATEGORIES MENU */
+
+
+
+/* navbar itself */
+
+
+#navbar { background-color: #9acb3b; border:1px solid #000; width: 990px; padding: 0px; margin:0px auto; height:25px; }
+/* navbar list container */	
+
+#nav { margin: 0px; padding: 3px 0px 0px 0px; list-style: none; }
+/* navbar list */	
+
+#nav ul { margin: 0px; padding: 0px; }
+/* navbar link */
+
+#nav a { font:bold 10px arial; color: white; display: block; text-transform: uppercase; margin: 0px 0px 0px 0px; padding: 5px; text-decoration: none; }
+/* navbar link rollover effect */	
+
+#nav a:hover { border-bottom:0px solid #EFCE33; color:#EFCE33; }
+/* navbar list element */
+
+#nav li { float: left; margin: 0px; padding: 0px; }
+#nav2 { margin: 0px; padding: 2px 0px 0px 0px; list-style: none; }
+/* navbar list */	
+
+#nav2 ul { margin: 0px; padding: 0px; }
+/* navbar link */
+
+#nav2 a { font:bold 10px arial; color: white; display: block; text-transform: uppercase; margin: 0px 0px 0px 0px; padding: 3px; text-decoration: none; }
+/* navbar link rollover effect */	
+
+#nav2 a:hover { border-bottom:0px solid #EFCE33; color:#EFCE33; }
+/* navbar list element */
+
+#nav2 li { float: left; margin: 0px; padding: 1px; }
+/* s BOX */
+
+
+
+/* game container */
+
+.game { padding:0px; width:125px; height:125px; float:left; margin:0 11px 11px 0; background:white; overflow:hidden; text-align:center; }
+.game h4 { font:bold 10px arial; text-align:center; margin:0px; padding:0px; text-transform:uppercase; }
+.game h4 a { color:#111; text-decoration:none;}
+.game p { margin:0px; padding:0px; }
+
+.game2 { width:125px; height:125px; padding:0px; float:left; margin:0 11px 11px 0; background:white; overflow:hidden; text-align:center; }
+.game2 h3 { background: #000; margin: -69px auto 0; padding: 5px 0; position: relative; width: 46px; color:#fff; }
+.game2 h4 { background: #000; font: bold 10px arial; height: 30px; margin: 15px 0 0; padding: 3px 0; position: relative; text-align: center; text-transform: uppercase; color:#fff;}
+.game2 h3 a { color:#fff; text-decoration:none; }
+.game2 h4 a { color:#fff; text-decoration:none; }
+.game2 p { margin: 0; }
+
+.game3 { padding:0px; width:125px; height:125px; float:left; margin:0 12px 12px 0; background:white; overflow:hidden; text-align:center; }
+.game3 h4 { font:bold 10px arial; text-align:center; margin:0px; padding:0px; text-transform:uppercase; }
+.game3 h4 a { color:#111; text-decoration:none;}
+.game3 p { margin:0px; padding:0px; }
+
+.game4 { width:125px; height:125px; padding:0px; float:left; margin:0 12px 12px 0; background:white; overflow:hidden; text-align:center; }
+.game4 h3 { background: #000; margin: -69px auto 0; padding: 5px 0; position: relative; width: 46px; color:#fff; }
+.game4 h4 { background: #000; font: bold 10px arial; height: 30px; margin: 15px 0 0; padding: 3px 0; position: relative; text-align: center; text-transform: uppercase; color:#fff;}
+.game4 h3 a { color:#fff; text-decoration:none; }
+.game4 h4 a { color:#fff; text-decoration:none; }
+.game4 p { margin: 0; }
+/* BLOG CONTENT */
+
+
+
+/* error 404 page*/
+
+.error404 { font:bold 11px verdana; color:#ffffff; padding:40px; }
+/* the content itself */
+
+#content { margin: 0px auto; padding: 0px;background:#fff; }
+/* content in the game page */
+
+#gamecontent { margin-top: -16px; margin-bottom: -10px; margin-left: 0px; margin-right: 0px; padding:0px; }
+/* game title in the game page */
+
+#gamecontent h1 { font:bold 24px verdana; color:#000000; padding:0px 0 15px 0; margin:10px 0px 15px 0px; text-transform:uppercase; text-align: center;border-bottom:1px solid #000; }
+/* left part of the game page... contains name, ratings and so on */
+
+.gameleft { width:500px; float:left; }
+/* right part of the container... does not contain anithing at the moment */
+
+.gameright { font:normal 11px verdana; width:480px; float:left; padding:15px 10px 0px 0px; color:#ffffff; text-align:right; }
+/* left part of main page... contains game thumbnails */
+
+#contentleft { float: left; width: 680px; margin-left: 0px; padding: 12px 0px 0px 14px; font-family:Arial, Helvetica, sans-serif;}
+/* div containing date (not included in my theme), ratings and games played counter */
+
+.date { font:normal 11px verdana; color:#aaaaaa; padding: 0px; margin: 5px 0px 0px 0px; }
+/* link in the previously explained div */
+
+.date a { color:#EFCE33; }
+/* flash container */	
+
+.flash { text-align:center; }
+/* container for the adsense ad below the game */
+
+.adsensead { text-align:center; }
+/* description of the game */
+
+.description { padding:0 10px 25px 10px; color:#A3784D; background-color:#9acb3b; border:1px solid #000; font:normal 11px verdana; margin:0px; }
+/* description list style */
+
+.description ul { margin:0; padding: 0px; list-style: none; }
+/* description list element style */
+
+.description ul li { color:#EFCE33 }
+/* description of 2nd child list element style */
+
+.description ul li ul li { color:#A3784D; line-height:18px; }
+/* description of link in the 2nd child list element style */
+
+.description ul li a { color:#A00B11;font-size:12px;text-decoration:none;font-family:Arial, Helvetica, sans-serif;background:url(images/arrow-yellow.png) no-repeat left center;padding:5px 2px 5px 10px;display:block;}
+
+.description h3{font:bold 14px/18px Arial, Helvetica, sans-serif;color:#000000;padding-bottom:10px;}
+/* page (example:about) container */
+
+
+.page { width:630px; font:normal 12px verdana; color:#000; line-height:18px;font-family:Arial, Helvetica, sans-serif!important; }
+/* page link */
+
+/* page title */
+
+.page h1 { font:bold 24px Arial, Helvetica, sans-serif;color:#A00B11; margin:0;}
+.page a{color:#A00B11;text-decoration:none;}
+.description h5 { font:bold 12px Arial, Helvetica, sans-serif; }
+#gamecontent h2 { font:bold 10px arial; color: black; display: block; margin: 0px 0px 0px 0px; padding: 0px; text-decoration: none; line-height: 0px; }
+.page h2 { font:bold 10px arial; color: black; display: block; margin: 0px 0px 0px 0px; padding: 0px; text-decoration: none; line-height: 0px; }
+h2 { font:bold 10px arial; color: black; display: block; margin: 0px 0px 0px 0px; padding: 0px; text-decoration: none; line-height: 0px; }
+.page h3 { margin: 0px 0px 0px 0px; padding: 0px; line-height: 0px; text-decoration: none; font:bold 10px arial; }
+h3 { margin: 0px 0px 0px 0px; padding: 0px; line-height: 0px; text-decoration: none; font:bold 10px arial; }
+.page h5 { font:bold 8px verdana; }
+h5 { font:bold 8px verdana; }
+/* RIGHT SIDEBAR */
+
+
+
+/* sidebar container */	
+
+#r_sidebar { float: right; width: 280px; margin:12px 12px 0 0; padding: 0px 0px 0px 0px; line-height: 0px; }
+/* sidebar titles */
+
+#r_sidebar h2 { color: #000000; font:bold 12px arial; text-transform: uppercase; margin: 5px 0px 5px 0px; padding: 3px 0px 3px 5px; }
+/* sidebar list */
+
+#r_sidebar ul { list-style-type: none; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; }
+/* sidebar list element */
+
+#r_sidebar ul li { border:1px solid #000; margin:0px 0px 12px 0px; padding: 0px 5px 0px 5px; background-color:#9acb3b; font:normal 11px arial; }
+/* sidebar 2nd child list element */
+
+#r_sidebar ul li ul li { border:none; margin:0px 0px 5px 0px; padding: 0px 5px 0px 5px; font:normal 11px arial; color:#777777; }
+/* sidebar link */
+
+#r_sidebar a { color:#A00B11; text-decoration:none; }
+/* sidebar link rollover effect */
+
+#r_sidebar a:hover { color: #EFCE33; text-decoration:none; }
+/* FOOTER */
+
+
+
+/* footer container */
+
+#footer { background-color:#9acb3b; color:#FFFFFF; border-top:1px solid #292929; width: 990px; margin-height: 0px; margin-left: auto; margin-bottom: 0px; margin-right: auto; font-size: 15px; text-align: center; }
+/* footer link rollover */
+
+#footer a { text-decoration:none; color:#FFF; }
+
+
+/* footer linl rollover */
+
+#footer a:hover {
+ color:#8BEB3F;
+}
+/* container for the list of all games */
+
+.posts_wrapper {width:990px; margin:0px auto; padding:0px; margin-left: auto; margin-right: auto; }
+/* container for the column with game list */
+
+.footer_posts { width:185px; float:left; margin: 15px 0px 0px 0px; padding:0px 0px 0px 0px; border-left:1px solid #666666; }
+/* game list style type */
+
+.footer_posts ul { list-style: none; padding:0px; margin:0px; }
+/* game list element style type */
+
+.footer_posts ul li { font:bold 10px arial; padding:1px 0px; }
+/* footer copyright */
+
+#copy { text-transform:uppercase; font:bold 10px arial; color:#000000; text-align:center; padding:20px 0px 10px 0px; }
+/* footer copyright link */
+
+#copy a { color:#A00B11; }
+
+#copy hr{height:1px;background:#fff;border:none;}
+/* COMMENTS */
+
+
+
+/* comments left sidebar (where you enter the comment */	
+
+#commentleft { font:normal 10px verdana; color:#ffffff; padding: 0px; margin: 0px 40px 0px 0px; line-height:20px; float:left; width:450px; }
+/* comments left sidebar link */
+
+#commentleft a { text-decoration:none; color:#EFCE33; }
+/* comments left sidebar small text (showing tags) */
+
+#commentleft small { color:#777777; font:normal 10px verdana; }
+/* input texts and textareas */
+
+.texts { background-color:#333333; border:1px solid #444444; width:90%;  padding:2px  font:normal 12px verdana;
+color:#f5f5f5; }
+/* review title */
+
+#review { font:normal 12px verdana; color:#EFCE33; padding:10px; border:1px solid #292929; background-color:#111111; }
+/* comments right sidebar (where read reviews) */
+
+#commentright { font:normal 11px verdana; color:#aaaaaa; float:left; width:500px; }
+/* comments right sidebar link */
+
+#commentright a { text-decoration:none; color:#EFCE33; }
+/* the review itself */
+
+.commentballoon { clear: both; margin: 3px 0px 0px 0px; padding: 0px; height:10px; background: url(images/comment.png) no-repeat top left; }
+/* text inside the review */
+
+.commenttext { clear: both; margin: 0px 0px 10px 0px; padding: 10px 10px 5px 10px; width: 420px; background: #333333; line-height:18px; }
+/* submit button */
+
+.sub_button { background-color:#333333; border:1px solid #444444;  padding:2px  font:normal 12px verdana;
+color:#f5f5f5; }
+
+.box2{background:#fff;padding:15px;font:normal 14px/18px Arial, Helvetica, sans-serif;color:#000;}
+.box2 td{padding:5px 5px 10px 0px;}
+.box2 h3{font-size:16px;margin:0px;font-weight:bold;color:#A00B11;line-height:18px}
+.box2 input{border:1px solid #ccc;background:#fff;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#000;width:250px;padding:3px;}
+.comments-box{background:#4AA02C;padding:15px;margin:15px 0 25px 0;font:normal 14px/18px Arial, Helvetica, sans-serif;border:1px solid #EFCE33;color:#fff;border-radius:8px;}
+.comments-box h3{font-size:16px;margin:0px;font-weight:bold;color:#9acb3b;line-height:18px}
+.comments-box input{border:1px solid #EFCE33;background:#fff;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#4AA02C;}
+.comments-box textarea{border:1px solid #EFCE33;background:#fff;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#4AA02C;}
+.comments-box input.submit{border:1px solid #000;background:#9acb3b;font:bold 12px/14px Arial, Helvetica, sans-serif;color:#fff;}
+
+.box3{background:#fff;padding:15px;margin-top:15px;font:normal 14px/18px Arial, Helvetica, sans-serif;color:#000;border-top:1px solid #ccc}
+.box4{background:#9acb3b;padding:1px 15px 10px 15px;font:normal 14px/18px Arial, Helvetica, sans-serif;border-bottom:1px solid #000;color:#fff;}
+
+
+
+.wp-pagenavi a{color:#000;background:#EFCE33;padding:3px 7px;text-decoration:none;margin:0 2px;font:bold 12px Arial, Helvetica, sans-serif;border-radius:10px;}
+.wp-pagenavi span.current {color:#000;background:#fff;padding:3px 7px;text-decoration:none;margin:0 2px;font:bold 12px Arial, Helvetica, sans-serif;border-radius:10px;}
+.adbottom{padding:15px;clear:both;background:#EFCE33;text-align:center;border-top:1px solid #333;}
+.adbottom2{padding:15px 0;clear:both;background:#EFCE33;text-align:center;margin-top:12px;}
+
+.flashpreload{background:#cccccc;height:100%;width:100%;position:absolute;top:0;color:#000;z-index:999;}
+.flashpreload a#skiptogame{font:bold 14px/24px Arial, Helvetica, sans-serif;color:#fff;text-align:center;text-decoration:none;width:130px;margin:0px auto;background:#FF6600;border-radius:25px;display:block;padding:5px;}
+.adsensearea{text-align:center;padding:50px 0;}
+#f_loading_cont{float:left;height:10px;margin:-22px auto 10px 395px;}
+.progress-bar{border:1px solid #BDE480;width:300px;text-align:left;padding:2px;float:left;margin:5px 0 5px 170px}
+.progress-bar #progress-loaded{background:url(images/progress_blue.gif) repeat-x 0 0;width:0px;height:10px;display:block;}	
+#f_loading_cont .load_number{font-size:15px;font-weight:bold;color:#fff;float:left;margin:0 10px;}	

@@ -1,0 +1,52 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sat, 07 Jan 2012 05:07:22 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=298>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Chica comic</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/chica-comic/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/chica-comic</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: cristina esmeralda avila lopez</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-comic#comment-1706</link>
+		<dc:creator>cristina esmeralda avila lopez</dc:creator>
+		<pubDate>Sat, 17 Sep 2011 19:03:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-comic#comment-1706</guid>
+		<description>que estas aciendo locaaa</description>
+		<content:encoded><![CDATA[<p>que estas aciendo locaaa</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: kateryne</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-comic#comment-1702</link>
+		<dc:creator>kateryne</dc:creator>
+		<pubDate>Sat, 17 Sep 2011 18:03:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-comic#comment-1702</guid>
+		<description>k divertido es muy facil medio una distraccion</description>
+		<content:encoded><![CDATA[<p>k divertido es muy facil medio una distraccion</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: karla stephania</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-comic#comment-1700</link>
+		<dc:creator>karla stephania</dc:creator>
+		<pubDate>Sat, 17 Sep 2011 17:58:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-comic#comment-1700</guid>
+		<description>esta divertido 
+sigan  asi con mas juegos</description>
+		<content:encoded><![CDATA[<p>esta divertido<br />
+sigan  asi con mas juegos</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/chica-comic/feed ) in 0.04385 seconds, on Jan 14th, 2012 at 5:07 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 14th, 2012 at 6:07 am UTC -->

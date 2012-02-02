@@ -1,0 +1,70 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sun, 08 Jan 2012 03:16:17 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=178>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Akademiks</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/akademiks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/akademiks</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: danica</title>
+		<link>http://www.juegosdevestirgratis.com.mx/akademiks#comment-672</link>
+		<dc:creator>danica</dc:creator>
+		<pubDate>Fri, 10 Jun 2011 22:58:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/akademiks#comment-672</guid>
+		<description>es muy lindo este juego(l)</description>
+		<content:encoded><![CDATA[<p>es muy lindo este juego(l)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: maida alejandra</title>
+		<link>http://www.juegosdevestirgratis.com.mx/akademiks#comment-653</link>
+		<dc:creator>maida alejandra</dc:creator>
+		<pubDate>Wed, 08 Jun 2011 19:01:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/akademiks#comment-653</guid>
+		<description>ola   q  tal</description>
+		<content:encoded><![CDATA[<p>ola   q  tal</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: brenda</title>
+		<link>http://www.juegosdevestirgratis.com.mx/akademiks#comment-572</link>
+		<dc:creator>brenda</dc:creator>
+		<pubDate>Thu, 19 May 2011 23:20:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/akademiks#comment-572</guid>
+		<description>esta muy chidisimo este juego que chidoo</description>
+		<content:encoded><![CDATA[<p>esta muy chidisimo este juego que chidoo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: juana maria lopez melendes</title>
+		<link>http://www.juegosdevestirgratis.com.mx/akademiks#comment-554</link>
+		<dc:creator>juana maria lopez melendes</dc:creator>
+		<pubDate>Wed, 18 May 2011 00:35:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/akademiks#comment-554</guid>
+		<description>tha bien pata</description>
+		<content:encoded><![CDATA[<p>tha bien pata</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ludmila</title>
+		<link>http://www.juegosdevestirgratis.com.mx/akademiks#comment-530</link>
+		<dc:creator>ludmila</dc:creator>
+		<pubDate>Sat, 14 May 2011 13:04:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/akademiks#comment-530</guid>
+		<description>holaa esta re lindoo el juegoo bamos bamos bamos</description>
+		<content:encoded><![CDATA[<p>holaa esta re lindoo el juegoo bamos bamos bamos</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/akademiks/feed ) in 0.03986 seconds, on Jan 15th, 2012 at 3:16 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 15th, 2012 at 4:16 am UTC -->

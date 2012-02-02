@@ -1,0 +1,70 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sun, 08 Jan 2012 21:51:52 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=284>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Los actores</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/los-actores/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/los-actores</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: andrea</title>
+		<link>http://www.juegosdevestirgratis.com.mx/los-actores#comment-1473</link>
+		<dc:creator>andrea</dc:creator>
+		<pubDate>Fri, 26 Aug 2011 21:06:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/los-actores#comment-1473</guid>
+		<description>mui lindos los dos</description>
+		<content:encoded><![CDATA[<p>mui lindos los dos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: paola</title>
+		<link>http://www.juegosdevestirgratis.com.mx/los-actores#comment-1466</link>
+		<dc:creator>paola</dc:creator>
+		<pubDate>Thu, 25 Aug 2011 23:44:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/los-actores#comment-1466</guid>
+		<description>estan padre los juegos</description>
+		<content:encoded><![CDATA[<p>estan padre los juegos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: meri</title>
+		<link>http://www.juegosdevestirgratis.com.mx/los-actores#comment-1413</link>
+		<dc:creator>meri</dc:creator>
+		<pubDate>Fri, 19 Aug 2011 19:28:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/los-actores#comment-1413</guid>
+		<description>ug</description>
+		<content:encoded><![CDATA[<p>ug</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: hilary</title>
+		<link>http://www.juegosdevestirgratis.com.mx/los-actores#comment-1409</link>
+		<dc:creator>hilary</dc:creator>
+		<pubDate>Fri, 19 Aug 2011 01:45:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/los-actores#comment-1409</guid>
+		<description>jajajajajaja ♥</description>
+		<content:encoded><![CDATA[<p>jajajajajaja ♥</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: princesz_fer1hotmail.com</title>
+		<link>http://www.juegosdevestirgratis.com.mx/los-actores#comment-1406</link>
+		<dc:creator>princesz_fer1hotmail.com</dc:creator>
+		<pubDate>Thu, 18 Aug 2011 23:52:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/los-actores#comment-1406</guid>
+		<description>siempre viste ala moda uuuuuuuuuuuuu</description>
+		<content:encoded><![CDATA[<p>siempre viste ala moda uuuuuuuuuuuuu</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/los-actores/feed ) in 0.03596 seconds, on Jan 15th, 2012 at 9:51 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 15th, 2012 at 10:51 pm UTC -->

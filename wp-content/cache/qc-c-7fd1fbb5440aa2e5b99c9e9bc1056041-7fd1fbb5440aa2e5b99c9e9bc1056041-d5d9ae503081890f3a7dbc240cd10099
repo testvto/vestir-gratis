@@ -1,0 +1,42 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Mon, 09 Jan 2012 05:03:04 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=164>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: El Goleador</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/el-goleador/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/el-goleador</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: marisol</title>
+		<link>http://www.juegosdevestirgratis.com.mx/el-goleador#comment-344</link>
+		<dc:creator>marisol</dc:creator>
+		<pubDate>Tue, 26 Apr 2011 21:18:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/el-goleador#comment-344</guid>
+		<description>esta  guapo el mono  jaja padre eljuego }:) 
+:p</description>
+		<content:encoded><![CDATA[<p>esta  guapo el mono  jaja padre eljuego }:)<br />
+:p</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: lilia</title>
+		<link>http://www.juegosdevestirgratis.com.mx/el-goleador#comment-314</link>
+		<dc:creator>lilia</dc:creator>
+		<pubDate>Sun, 24 Apr 2011 03:51:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/el-goleador#comment-314</guid>
+		<description>que pedo con este juego es una tonteria</description>
+		<content:encoded><![CDATA[<p>que pedo con este juego es una tonteria</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/el-goleador/feed ) in 0.04064 seconds, on Jan 16th, 2012 at 5:03 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 16th, 2012 at 6:03 am UTC -->

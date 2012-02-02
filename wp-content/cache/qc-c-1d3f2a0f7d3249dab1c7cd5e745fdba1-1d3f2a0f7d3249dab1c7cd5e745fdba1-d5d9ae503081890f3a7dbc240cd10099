@@ -1,0 +1,62 @@
+a:9:{i:0;s:23:"X-Powered-By: PHP/5.3.6";i:1;s:38:"Expires: Sun, 08 Jan 2012 21:48:04 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:61:"X-Pingback: http://www.juegosdevestirgratis.com.mx/xmlrpc.php";i:5;s:44:"Last-Modified: Fri, 18 Nov 2011 04:43:27 GMT";i:6;s:40:"ETag: "82a0e2bdeba86fc9f492bb06b59e47e5"";i:7;s:68:"Link: <http://www.juegosdevestirgratis.com.mx/?p=332>; rel=shortlink";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Chica de la flor</title>
+	<atom:link href="http://www.juegosdevestirgratis.com.mx/chica-de-la-flor/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.juegosdevestirgratis.com.mx/chica-de-la-flor</link>
+	<description>Juegos de Vestir y Maquillar Gratis!</description>
+	<lastBuildDate>Fri, 18 Nov 2011 04:43:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>By: guada</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2341</link>
+		<dc:creator>guada</dc:creator>
+		<pubDate>Sun, 13 Nov 2011 18:12:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2341</guid>
+		<description>yo lo vesti re bonito</description>
+		<content:encoded><![CDATA[<p>yo lo vesti re bonito</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: natalia</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2253</link>
+		<dc:creator>natalia</dc:creator>
+		<pubDate>Sat, 05 Nov 2011 00:09:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2253</guid>
+		<description>es muy lindo justen beber</description>
+		<content:encoded><![CDATA[<p>es muy lindo justen beber</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: pablo</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2244</link>
+		<dc:creator>pablo</dc:creator>
+		<pubDate>Fri, 04 Nov 2011 15:19:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2244</guid>
+		<description>ola que tal</description>
+		<content:encoded><![CDATA[<p>ola que tal</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: valentina</title>
+		<link>http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2220</link>
+		<dc:creator>valentina</dc:creator>
+		<pubDate>Wed, 02 Nov 2011 03:04:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.juegosdevestirgratis.com.mx/chica-de-la-flor#comment-2220</guid>
+		<description>k chido juegoo 
+:)</description>
+		<content:encoded><![CDATA[<p>k chido juegoo<br />
+ <img src='http://www.juegosdevestirgratis.com.mx/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  www.juegosdevestirgratis.com.mx/chica-de-la-flor/feed ) in 0.04481 seconds, on Jan 15th, 2012 at 9:48 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jan 15th, 2012 at 10:48 pm UTC -->

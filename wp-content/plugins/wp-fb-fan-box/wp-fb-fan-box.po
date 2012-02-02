@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-fb-fan-box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 16:06+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Agus Suhanto <agus@suhanto.net>\n"
+"Language-Team: Agus Suhanto <agus@suhanto.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Width: "
+msgstr ""
+
+msgid "Height: "
+msgstr ""
+
+msgid "Profile Id: "
+msgstr ""
+
+msgid "Connections: "
+msgstr ""
+
+msgid "Stream"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Link to us (optional)"
+msgstr ""
+
+msgid "More details about these options, visit <a href=\"%s\" target=\"_blank\">Plugin Home</a>"
+msgstr ""
+
+msgid "Get this widget for your own blog free!"
+msgstr ""
+

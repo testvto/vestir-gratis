@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpTable\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-02-17 12:18+0100\n"
+"Last-Translator: Alex Rabe\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-table-admin.php:36
+#: wp-table-admin.php:46
+#: wp-table-admin.php:125
+#: wp-table-admin.php:136
+#: wp-table-admin.php:146
+msgid "Update Successfully"
+msgstr "Mise à jour réussie"
+
+#: wp-table-admin.php:51
+#: wp-table-admin.php:150
+msgid "No Update needed"
+msgstr "Pas de mise à jour nécessaire"
+
+#: wp-table-admin.php:67
+#: wp-table-admin.php:81
+#: wp-table-admin.php:85
+#: wp-table-admin.php:98
+#: wp-table-admin.php:103
+#: wp-table-admin.php:197
+#: wp-table-admin.php:202
+#: wp-table-admin.php:596
+#: wp-table-admin.php:620
+msgid "Database error. Could not perfom all action."
+msgstr "Erreur de base de donnée. Ne peut effectuer toutes les actions "
+
+#: wp-table-admin.php:69
+msgid "New row successfully added"
+msgstr "Nouvelle ligne ajoutée avec succcès"
+
+#: wp-table-admin.php:83
+msgid "New column successfully added"
+msgstr "Nouvelle colonne ajoutée avec succès"
+
+#: wp-table-admin.php:101
+msgid "Last column successfully deleted"
+msgstr "Dernière colonne supprimée avec succès "
+
+#: wp-table-admin.php:169
+msgid "ERROR : File cannot be saved. Check the permission of the wordpress upload folder"
+msgstr "ERREUR : le fichier ne peut être sauvé. Demander la permission du répertoir  d'upload de Wordpress"
+
+#: wp-table-admin.php:171
+#: wp-table-admin.php:214
+msgid "ERROR : File not found :"
+msgstr "EREEUR : fichier non trouvé"
+
+#: wp-table-admin.php:187
+msgid "Table "
+msgstr "Table"
+
+#: wp-table-admin.php:187
+#: wp-table-admin.php:592
+#: wp-table-admin.php:615
+msgid " added successfully"
+msgstr "ajouté avec succès"
+
+#: wp-table-admin.php:210
+#: wp-table-admin.php:601
+#: wp-table-admin.php:623
+msgid "Error : Table cannot insert to database"
+msgstr "Erreur : La table ne peut s'insérer dans la base de données"
+
+#: wp-table-admin.php:212
+#: wp-table-admin.php:603
+msgid "Error : You need to enter a table name"
+msgstr "Erreur : Vous devez entrer un nom de table "
+
+#: wp-table-admin.php:228
+msgid "Style sheet updated."
+msgstr "Feuille de style CSS mise à jour"
+
+#: wp-table-admin.php:244
+msgid "Table width control"
+msgstr "Contrôle de largeur de table"
+
+#: wp-table-admin.php:245
+msgid "Here you can edit the column width of the selected table."
+msgstr "Vous pouvez éditer ici la largeur de colonne de la table sélectionnée"
+
+#: wp-table-admin.php:270
+msgid "Align control : Enter <strong>L</strong>=Left <strong>C</strong>=Center <strong>R</strong>=Right"
+msgstr "Contrôle d'alignement : <strong>L</strong>=A gauche <strong>C</strong>=Centré <strong>R</strong>= A Droite"
+
+#: wp-table-admin.php:286
+#: wp-table-admin.php:468
+#: wp-table-admin.php:556
+#: wp-table-admin.php:644
+msgid "Update"
+msgstr "Mise à jour"
+
+#: wp-table-admin.php:287
+#: wp-table-admin.php:470
+#: wp-table-admin.php:643
+#: wp-table-import.php:58
+#: js/wptable-button.php:68
+msgid "Cancel"
+msgstr "Annuler"
+
+#: wp-table-admin.php:297
+#: wp-table-import.php:16
+msgid "Table preview"
+msgstr "Pré-vision de la table"
+
+#: wp-table-admin.php:298
+msgid "Please note this is not a WYSIWYG mode of the table, the CSS of your theme could show the table in a slightly different way."
+msgstr "Veuillez noter que ceci n'est pas un mode WYSIWYG de la table, le CSS de votre thème pourrait montrer la table d'une manière légèrement différente."
+
+#: wp-table-admin.php:350
+msgid "Error in deleting row for table"
+msgstr "Erreur en supprimant une ligne de la table"
+
+#: wp-table-admin.php:353
+msgid "Row"
+msgstr "Ligne"
+
+#: wp-table-admin.php:353
+#: wp-table-admin.php:576
+msgid "deleted successfully"
+msgstr "supprimé avec succès"
+
+#: wp-table-admin.php:392
+#: wp-table-admin.php:576
+#: wp-table-admin.php:592
+#: wp-table-admin.php:615
+msgid "Table"
+msgstr "Table"
+
+#: wp-table-admin.php:393
+msgid "Here you can edit the selected table. It's possible to add or delete the last column."
+msgstr "Vous pouvez éditer ici la table sélectionnée. Il est possible d'ajouter ou de supprimer la dernière colonne."
+
+#: wp-table-admin.php:394
+msgid "If you want to show this table in your page, enter the tag :"
+msgstr "Si vous voulez montrer cette table dans votre page, entrez le tag : "
+
+#: wp-table-admin.php:397
+msgid "Edit table"
+msgstr "Editez la table"
+
+#: wp-table-admin.php:401
+msgid "Title or Name :"
+msgstr "Titre ou nom :"
+
+#: wp-table-admin.php:402
+msgid "Description :"
+msgstr "Description :"
+
+#: wp-table-admin.php:438
+msgid "Delete this row ?"
+msgstr "Supprimer cette ligne ?"
+
+#: wp-table-admin.php:438
+msgid "Delete row"
+msgstr "Supprimer la ligne"
+
+#: wp-table-admin.php:442
+msgid "Width"
+msgstr "Largeur"
+
+#: wp-table-admin.php:450
+msgid "Edit width"
+msgstr "Editer la largeur"
+
+#: wp-table-admin.php:463
+msgid "Add new row"
+msgstr "Ajouter une nouvelle ligne"
+
+#: wp-table-admin.php:464
+msgid "Add new column"
+msgstr "Ajouter une nouvelle colonne"
+
+#: wp-table-admin.php:465
+msgid "Delete last column"
+msgstr "Supprimer la dernière colonne"
+
+#: wp-table-admin.php:465
+msgid "Delete last column ?"
+msgstr "Supprimer la dernière colonne?"
+
+#: wp-table-admin.php:469
+msgid "Save and go back"
+msgstr "Sauver et revenir en arrière"
+
+#: wp-table-admin.php:478
+msgid "Table Option"
+msgstr "Option de la table"
+
+#: wp-table-admin.php:479
+msgid "These settings are only valid for this table."
+msgstr "Ces paramètres ne sont valable que pour cette table"
+
+#: wp-table-admin.php:484
+msgid "Use alternating color"
+msgstr "Utiliser une couleur alternative"
+
+#: wp-table-admin.php:486
+msgid "This option will show every second row in the alternativ color"
+msgstr "Cette option montrera chaque ligne paire dans la couleur alternative"
+
+#: wp-table-admin.php:489
+msgid "Show table name as title"
+msgstr "Montrer le nom de la table comme titrre"
+
+#: wp-table-admin.php:491
+msgid "The table name will be shown as [h2] headline"
+msgstr "Le nom de la table sera montré comme titre [h2]"
+
+#: wp-table-admin.php:494
+msgid "Show description"
+msgstr "Montrer la description"
+
+#: wp-table-admin.php:496
+msgid "The description will be shown"
+msgstr "La description va être montrée"
+
+#: wp-table-admin.php:499
+msgid "Define first row as header"
+msgstr "Définir la première ligne comme un titre"
+
+#: wp-table-admin.php:501
+msgid "The first row get the tag [th]"
+msgstr "La première ligne reçoit le tag [th]"
+
+#: wp-table-admin.php:505
+msgid "General Option"
+msgstr "Option générale"
+
+#: wp-table-admin.php:506
+msgid "These are global settings, which are valid for all tables."
+msgstr "Ceci sont des paramètres globaux, valides pour toutes les tables."
+
+#: wp-table-admin.php:510
+msgid "Use CSS file ?"
+msgstr "Utiliser un fichier CSS"
+
+#: wp-table-admin.php:512
+msgid "Use the wp-table.css file instead the above settings."
+msgstr "Utiliser le fichier wp-table.css à la place des paramètres ci-dessus"
+
+#: wp-table-admin.php:513
+#: wp-table-admin.php:635
+msgid "Edit wp-Table.css"
+msgstr "Editer wp-Table.css"
+
+#: wp-table-admin.php:516
+msgid "Activate sort function"
+msgstr "Activer la fonction de tri"
+
+#: wp-table-admin.php:518
+msgid "Activate the Table Sort Script from "
+msgstr "Activer le Script de Tri de Table à partir de"
+
+#: wp-table-admin.php:521
+msgid "Border Color"
+msgstr "Couleur de bourdure"
+
+#: wp-table-admin.php:523
+msgid "Enter the HTML color code (i.e. #E58802 for the border line)."
+msgstr "Entrer le code HTML de couleur (p.ex. #E58802)"
+
+#: wp-table-admin.php:526
+msgid "Headline Color"
+msgstr "Couleur de la ligne de titre"
+
+#: wp-table-admin.php:528
+msgid "Select a background color for the first row"
+msgstr "Sélectionner une couleur d'arrière plan pour la première ligne"
+
+#: wp-table-admin.php:531
+msgid "Alternative Color"
+msgstr "Couleur alternative"
+
+#: wp-table-admin.php:533
+msgid "Select the alternating color (i.e. #F4F4EC)"
+msgstr "Sélectionner la couleur alternative (p.ex. #F4F4EC)"
+
+#: wp-table-admin.php:536
+msgid "Table width"
+msgstr "Largeur de table"
+
+#: wp-table-admin.php:538
+msgid "Enter the relative table width in percent (0 = not used)."
+msgstr "Entrer la largeur relative de la table en pourcents (0 = pas utilisé)"
+
+#: wp-table-admin.php:541
+msgid "Border Size"
+msgstr "Largeur de bordure"
+
+#: wp-table-admin.php:543
+msgid "Size of border around the table (0 = no border)"
+msgstr "Taille de la bordure autour de la table en Pixels (0 = pas de Bordure)"
+
+#: wp-table-admin.php:546
+msgid "Cell spacing"
+msgstr "Largeur de cellule"
+
+#: wp-table-admin.php:548
+msgid "Space between cells (Default = 1)"
+msgstr "Espace entre les cellules en Pixels (Par défaut = 1)"
+
+#: wp-table-admin.php:551
+msgid "Cell padding"
+msgstr "Marge des cellules"
+
+#: wp-table-admin.php:553
+msgid "Space between the edge of a cell and the contents (Default = 0)"
+msgstr "Espace entrele bord d'une cellule et son contenu en Pixels  (Par défaut = 0)"
+
+#: wp-table-admin.php:570
+msgid "Error in deleting table"
+msgstr "Erreur en suprimant la table. Id : "
+
+#: wp-table-admin.php:573
+msgid "Error in deleting entries for table"
+msgstr "Erreur en supprimant des entrées dans la table"
+
+#: wp-table-admin.php:636
+msgid "File path : "
+msgstr "Localisation du fichier : "
+
+#: wp-table-admin.php:640
+msgid "If this file was writable you could edit it"
+msgstr "Si la table était en mode écriture, vous pourriez l'éditer"
+
+#: wp-table-admin.php:659
+msgid "Manage Table"
+msgstr "Gestion de la table"
+
+#: wp-table-admin.php:662
+msgid "ID"
+msgstr "ID"
+
+#: wp-table-admin.php:663
+msgid "Table Name"
+msgstr "Nom de la table"
+
+#: wp-table-admin.php:664
+msgid "Description"
+msgstr "Description"
+
+#: wp-table-admin.php:665
+msgid "Action"
+msgstr "Action"
+
+#: wp-table-admin.php:679
+msgid "Edit"
+msgstr "Editez"
+
+#: wp-table-admin.php:680
+msgid "Copy this table ?"
+msgstr "Copier cette table ?"
+
+#: wp-table-admin.php:680
+msgid "Copy"
+msgstr "Copier"
+
+#: wp-table-admin.php:681
+msgid "The complete table and content will be erased. Delete?"
+msgstr "La table entière et son contenu sera supprimée. Efaccer? "
+
+#: wp-table-admin.php:681
+msgid "Delete"
+msgstr "Supprimer"
+
+#: wp-table-admin.php:686
+msgid "No table found"
+msgstr "Pas de table trouvée"
+
+#: wp-table-admin.php:693
+msgid "Add a new table"
+msgstr "Ajouter une nouvelle table"
+
+#: wp-table-admin.php:698
+#: wp-table-admin.php:737
+msgid "Table name"
+msgstr "Nom de la table"
+
+#: wp-table-admin.php:702
+msgid "No. of columns:"
+msgstr "N° de colonne:"
+
+#: wp-table-admin.php:714
+msgid "No. of rows:"
+msgstr "N° de ligne:"
+
+#: wp-table-admin.php:726
+msgid "Add table"
+msgstr "Ajouter une table"
+
+#: wp-table-admin.php:732
+msgid "Import a table"
+msgstr "Importer une table"
+
+#: wp-table-admin.php:741
+msgid "Select CSV file:"
+msgstr "Sélectionner le fichier CSV:"
+
+#: wp-table-admin.php:747
+msgid "Define delimiter:"
+msgstr "Définir les délimiteurs de champs:"
+
+#: wp-table-admin.php:753
+#: wp-table-import.php:57
+msgid "Import table"
+msgstr "Importer la table"
+
+#: wp-table-import.php:17
+msgid "Here you can see a basic table preview of the CSV file. Press Import Table to save this table."
+msgstr "DVous pouvez voir ici un aperçu basique de la table à partir du fichier CSV. Appuyer sur \"Importer la table\" pour sauver cette table."
+
+#: wp-table-import.php:18
+msgid "Please leave this page only via the cancel button, otherwise the uploaded temp file will not deleted."
+msgstr "Veuillez ne quitter cette page qu'avec le bouton \"Annuler\", sinon le ficher temporaire de téléchargement ne sera pas supprimé."
+
+#: wp-table.php:53
+msgid "Tables"
+msgstr "Tables"
+
+#: js/wptable-button.php:49
+msgid "Select table"
+msgstr "Sélectionner table:"
+
+#: js/wptable-button.php:55
+msgid "No table"
+msgstr "Pas de table trouvée"
+
+#: js/wptable-button.php:65
+msgid "Insert Table"
+msgstr "Gestion de la table"
+
